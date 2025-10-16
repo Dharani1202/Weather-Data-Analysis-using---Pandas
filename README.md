@@ -2,7 +2,7 @@
 
 This project focuses on analyzing weather data using Python and its data analysis libraries. The goal is to explore the dataset, clean it, and extract meaningful insights from various weather parameters.
 
-**[View the Project](https://github.com/Dharani1202/Weather-Data-Analysis)**
+* <a href="https://github.com/Dharani1202/Weather-Data-Analysis-using---Pandas/blob/main/weather%20Project_4.ipynb"> View the Project </a>
 
 ## About
 
@@ -74,5 +74,5 @@ Applied condition-based filtering to extract all records satisfying both criteri
 
 ---
 
-**[View the Project](https://github.com/Dharani1202/Weather-Data-Analysis)**
+ * a href="https://github.com/Dharani1202/Weather-Data-Analysis-using---Pandas/blob/main/weather%20Project_4.ipynb"> View the Project </a>
 
